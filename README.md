@@ -32,8 +32,9 @@ Make sure you have the following dependencies installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/guitar-flash-special-bot.git
-   cd guitar-flash-special-bot
+   git clone https://github.com/jhenriwue/guitar-flash.git
+   cd guitar-flash
+   ```
 
 2. Install the required Python libraries:
    ```bash
@@ -44,7 +45,7 @@ Make sure you have the following dependencies installed:
 
 4. Run the script:
     ```bash
-   python guitar_flash_bot.py
+   python guitar_flash.py
    ```
 
 ## ⚙️ Configuration
