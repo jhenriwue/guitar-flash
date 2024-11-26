@@ -1,0 +1,6 @@
+opencv-python
+numpy>=1.21.0
+mss
+pytesseract
+pynput
+Pillow
